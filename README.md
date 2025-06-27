@@ -6,7 +6,7 @@ I am a student studying Applied Data Science ar University of Chicago, with a pr
 
 🌍  I'm based in Chicao, Illinois
 
-🖥️  See my portfolio at Website
+🖥️  See my portfolio at [Website](https://dwei2002.github.io)
 
 ✉️  You can contact me at dwei2002@uchicago.edu
 
