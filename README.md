@@ -4,7 +4,7 @@
 I am a student studying Applied Data Science ar University of Chicago, with a previous bachelor degree (B.S.) in Statistics. My passion is using data to find interesting trends to aid my own (or some orginization's) decisions. I also enjoy making/contributing to community maintained websites that serve as a tool or wiki. Below is a summary of some of my AI related projects that I have done!
 
 
-🌍  I'm based in Chicao, Illinois
+🌍  I'm based in Chicago, Illinois
 
 🖥️  See my portfolio at [Website](https://dwei2002.github.io)
 
